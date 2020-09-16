@@ -2,8 +2,8 @@
 *************************  System: Virtual Store *******************************
 
 
-													      Main links
-											 ==================================
+Main links
+==================================
 
 API: https://apivirtualstore.herokuapp.com/api
 Swagger: https://apivirtualstore.herokuapp.com/swagger-ui.html
@@ -11,8 +11,8 @@ Git: https://github.com/AllenHichard/ApiVirtualStore
 Conceptual model: root of the project 
 
 
-													Development environment
-											 ==================================
+Development environment
+==================================
 
 *****************     Eclipse   ********************
 Version: 2020-06 (4.16.0)
@@ -24,8 +24,8 @@ Version: 8
 *****************  h2 database  ********************
 Version: 1.4.200
 
-															 Models
-												==================================
+Models
+==================================
 
 Client - system users
 Order - Symbolizes the online shopping cart
